@@ -3,5 +3,5 @@
 ### 你好，世界 👋
 
 - :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :meat_on_bone: Meat lover
+- :hammer: Creator of applications 
+- :meat_on_bone: Sleep and Coffee lover
